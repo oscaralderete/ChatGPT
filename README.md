@@ -6,7 +6,7 @@ This is a SPA application, the only dependencies are 2 CSS files, everything els
 
 I hope you can play with this file, you need an OpenAI account -as you must know, OpenAI is the organization that developed ChatGPT- and an API key to run this script.
 
-# Implementación básico de ChatGPT con PHP
+# Implementación básica de ChatGPT con PHP
 
 Esta es una implementación básica de ChatGPT, la impresionante herramienta que es posible usar para programar, escribir, dibujar y muchas cosas más con ayuda de la más avanzada inteligencia artificial.
 
